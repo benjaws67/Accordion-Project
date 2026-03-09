@@ -1,6 +1,6 @@
 .classs {text-align: center;}
 
-h1 {
+ h1 {
   font-family: "IBM Plex Serif", serif;
   font-weight: 100;
   font-style: normal;
@@ -83,4 +83,7 @@ h1 {
   font-weight: 700;
   font-style: italic;
 }
-body {background-image: url("img/Untitled design.png");}
+body {background-image: url("../img/image1.png");}
+
+
+
